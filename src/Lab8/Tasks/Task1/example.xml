@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Songs>
+    <song>
+        <title>Imagine</title>
+        <author>John Lennon</author>
+        <year>1971</year>
+    </song>
+    <song>
+        <title>Bohemian Rhapsody</title>
+        <author>Queen</author>
+        <year>1975</year>
+    </song>
+</Songs>
